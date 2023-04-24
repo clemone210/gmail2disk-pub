@@ -19,6 +19,7 @@ The following libraries are required for this script:
 ### Gmail API Client Setup
 
 The first step in the script is to set up the Gmail API client using the user's credentials. If a `token.json` file exists in the same directory as the script, it is used to authenticate the user. Otherwise, the user is prompted to log in and authenticate the script using their Google account.
+You will need to save the credentials.json file into the project root directory.
 
 ### Labels and Subfolder Name
 
