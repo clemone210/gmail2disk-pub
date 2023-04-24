@@ -24,6 +24,7 @@ You will need to save the credentials.json file into the project root directory.
 ### Labels and Subfolder Name
 
 The script defines the labels for which to download attachments and the subfolder in which to save them. By default, the subfolder is named "attachments", but this can be changed.
+You can use the API to get all your Label-Id's: [here](https://developers.google.com/gmail/api/reference/rest/v1/users.labels/list?hl=de)
 
 ### Attachment Subfolder Creation and Cleaning
 
